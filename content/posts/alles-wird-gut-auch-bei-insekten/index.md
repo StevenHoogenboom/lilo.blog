@@ -13,3 +13,5 @@ Die Situation der Insekten in der Schweiz ist beängstigend. In den letzten drei
 {{<lead>}}
 
 <!--EndFragment-->
+
+Steven, Moritz und Robbert
