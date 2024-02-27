@@ -9,15 +9,9 @@ image = "https://mail.google.com/mail/u/0?ui=2&ik=69dca6b365&attid=0.1&permmsgid
 
 Ein Interview mit Simon Jäggi dem Kurator, vom Naturhistorischen Museum Bern, über die Vergangenheit, Gegenwart und Zukunft. 
 
-**![Ein Bild, das Person, Kleidung, Mann, Menschliches Gesicht enthält.
-
-Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/4jyt1LCHfFeiLwkqDJosIj95dnGQxe3r-XiiObU_2G7DozokyqWLZXS8akZVpLznSMgFERTz5IuwitkH5NJbFilL_pRA6xW9ZJNJG8xdAKQQEnnl_eZZEydGVBVpUuSaG1Whq1KZYqmjUBSzSaUCKg)Robert, Steven und Moritz**
-
 ![Simon Jäggi mit der perfekten Berufung für ihn, Kurator. (Bild: NMBE)](https://www.nmbe.ch/sites/default/files/styles/default_landscape__sizes_1920/public/NMBE_Simon_Jaeggi-217050.jpg?h=6f8e2d4a&itok=jEXvVu0h)
 
 Sitzend im Pausenraum erwartet er uns. Montagnachmittag, es ist ruhig und wir waren gespannt ihn kennenzulernen. Simon Jäggi war offen und erzählte über das Thema mit sehr viel Herzblut und Leidenschaft. Also war der Wechsel ins Museum gut gelungen. Journalist beim Bund, Verwaltung im Museum, nebenbei Musik und jetzt Kurator? 
-
-
 
 **Wieso dieser positive vielleicht auch provokanter Titel – ist der ernst gemeint?** 
 
@@ -35,7 +29,13 @@ KI wird die Museen nicht ersetzen. Natürlich muss sich die Art und Weise von Au
 
 Und gerade in der heutigen Zeit ist gute Recherchearbeit gefordert. Gutes Beispiel war die Ausstellung Queer. Es zeigte sich, dass das Wissen zur Geschlechtervielfalt in der Tierwelt sehr gering resp. nicht leicht zugänglich war. Da hat das Museum enormen Wissensaufbau geleistet und KI hätte diese Informationen nicht hervorbringen können. 
 
+{{<box title="Ausklappbare Box">}}
 
+**Die Geschichte des Naturhistorischen Museums Bern**
+
+Das Naturhistorische Museum Bern wurde 1832 gegründet. Somit ist es das älteste Museum Berns. Seit dem 4. Januar 1936 ist die Sammlung, die sich auf mehr als 6,5 Millionen Objekte und Präparate beläuft, an der Bernastrasse 15 untergebracht. Das bekannteste und älteste Ausstellungsstück ist der Bernhardiner Bergrettungshund Barry. Neben Barry gibt es noch den Schatz vom Planggenstock, ein Riesenkristall aus den Alpen. sowie die Sammlung Afrikanischer Tiere des Berner Grosswildjägers Bernhard von Wattenwyl. Das Naturhistorische Museum Bern ist eines der wichtigsten und grössten Naturkundemuseen der Schweiz.
+
+{{</box>}}
 
 **Spielt das NMBE gezielt eine Altersgruppe an?** 
 
@@ -65,13 +65,13 @@ Naturhistorisch bezieht sich stark auf das Archiv, welches die Evolution der Nat
 
 Ja. Viele Objekte des NMBE kommen von afrikanischem Kontinent und konnten nur dank kolonialen Strukturen gesammelt werden. Es gab zwar Bewilligungen, man hat aber klar von diesen Strukturen sehr profitiert. Diesen Umstand hat das NMBE aufgearbeitet. Nebst einer ausführlichen Eingangszone mit digitalen Fotoalben finden Besuchende bei jedem Diorama zusätzliche Informationen. Das Thema beschäftigt NMBE sehr. Sowohl der afrikanische als auch der südamerikanische Kontinent wurden von den naturhistorischen Museen ausgeraubt. Es gab sogar eine Art Wettkampf für möglichst seltenen Funde/Arten unter den Museen, was natürlich zu Auswirkungen auf die Artenvielfalt hatte. Heute werden kaum noch Tiere getötet, um diese auszustellen oder in Sammlungen aufzunehmen. Bei Insekten ist dies anders, dort brauchen wir natürlich ein paar für die Präparate etc. 
 
+
+
 **Wie sieht das Museum der Zukunft aus? Wo steht es?** 
 
 Physische Elemente Präparate werden für Museen immer noch eine wichtige Rolle spielen. Dies ist ja auch der Unterschied zu Computeranimationen. Natürlich wird die Digitalisierung aber auch an Einfluss gewinnen, so z.B. beim Wiedergeben von verlorenen Welten wie z.B einer Dino-Ausstellung, welche mit virtuell reality gewinnen würde.
 
 Aber das Museum als Ort, um sich an einem Nachtmittag 1-2 Stunden zu einem Thema zu verweilen, wird es sicherlich weiter hingeben, wie natürlich auch die Sammlungen.
-
-
 
 > Museen sind für die Ewigkeit - Simon Jäggi
 
