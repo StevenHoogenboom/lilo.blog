@@ -30,7 +30,7 @@ Es ist erschütternd und es macht traurig, wenn man sich mit den Zahlen, Fakten 
 
 Simon Jäggi stellte die Ausstellung mit seinem Team auf die Beine. Es ist seine zweite Ausstellung. Zuvor hatte er “Queer - Vielfalt ist unsere Natur” kuratiert, sie war eine der erfolgreichsten Sonderausstellungen des Naturhistorischen Museums. Im Jahr 2023 erzielte das Naturhistorische Museum (NMBE) das zweitbeste Ergebnis hinsichtlich der  Besucherzahlen. Dies hat es den drei Sonderausstellungen zu verdanken. Bis März die Queer Ausstellung, dann im Sommer mit einer Gemälde- und Grafikausstellung des berner Mundartsängers Büne Huber und als Abrundung des Jahres, startete im November die Insektenausstellung “Alles wird gut”. Doch Simon Jäggi war nicht immer Kurator, früher schrieb er Texte für den Bund und 2004 gründete er mit sechs Freunden die Mundart-Band ,,Kummerbuben”.
 
-
+{{<box title="Ausklappbare Box">}}
 
 ##### **Simon Jäggi - Wie der Stein ins Rollen kam**
 
@@ -38,9 +38,7 @@ Gestartet hat er seine Karriere 2007 als Redaktor bei der Zeitung "Der Bund". 20
 
 Mit einem zweiten Bein stand er auf der Bühne. 2004 gründete er mit sechs Freunden die Mundartband ,,Kummerbuben". 2007 brachten sie ihr erstes Album ,,Liebi und anderi Verbräche” heraus, in dem sie vor allem Schweizer Volkslieder interpretierten. Nach vielen wilden Festival-Auftritten erschien dann 2009 ihr zweites Album "Schattenhang", mit dem sie in die Schweizer Hitparade kamen. Doch 20 Jahre nach der ersten Bandprobe lösen sie sich auf. Nach sechs Alben und 350 Konzerten in der Schweiz und in Deutschland und einem Letzten am 14. Februar in der Mühle Hunziken schliesst sich das Musik-Kapitel ,,Kummerbuben".
 
-{{}}
-
-
+{{</box>}}
 
 ![Simon Jäggi/Kurator – (Bild: NMBE)](https://www.nmbe.ch/sites/default/files/styles/default_landscape__sizes_1920/public/NMBE_Simon_Jaeggi-217050.jpg?h=6f8e2d4a&itok=jEXvVu0h)
 
