@@ -65,7 +65,13 @@ Naturhistorisch bezieht sich stark auf das Archiv, welches die Evolution der Nat
 
 Ja. Viele Objekte des NMBE kommen von afrikanischem Kontinent und konnten nur dank kolonialen Strukturen gesammelt werden. Es gab zwar Bewilligungen, man hat aber klar von diesen Strukturen sehr profitiert. Diesen Umstand hat das NMBE aufgearbeitet. Nebst einer ausführlichen Eingangszone mit digitalen Fotoalben finden Besuchende bei jedem Diorama zusätzliche Informationen. Das Thema beschäftigt NMBE sehr. Sowohl der afrikanische als auch der südamerikanische Kontinent wurden von den naturhistorischen Museen ausgeraubt. Es gab sogar eine Art Wettkampf für möglichst seltenen Funde/Arten unter den Museen, was natürlich zu Auswirkungen auf die Artenvielfalt hatte. Heute werden kaum noch Tiere getötet, um diese auszustellen oder in Sammlungen aufzunehmen. Bei Insekten ist dies anders, dort brauchen wir natürlich ein paar für die Präparate etc. 
 
+{{<box title="Ausklappbare Box">}}
 
+**Die Museen und der Kolonialismus**
+
+Während der europäischen Kolonialisierung Afrikas haben die Europäischen Nationen sich gegenüber der einheimischen Kulturen rassistisch verhalten. Dazu kommt, dass viele Ausstellungsstücke von den Kolonialisten geraubt und in die Europäischen Museen gebracht wurden. Heute versuchen viele Museen, ihre Geschichte aufzuarbeiten und auf die Nachkommen der afrikanischen Kulturen zuzugehen.
+
+{{</box>}}
 
 **Wie sieht das Museum der Zukunft aus? Wo steht es?** 
 
